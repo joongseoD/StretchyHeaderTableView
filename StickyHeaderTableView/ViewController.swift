@@ -8,7 +8,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-
     @IBOutlet weak var navigationBarView: UIView!
     @IBOutlet weak var headerView: UIView!
     @IBOutlet weak var headerContainerView: UIView!
